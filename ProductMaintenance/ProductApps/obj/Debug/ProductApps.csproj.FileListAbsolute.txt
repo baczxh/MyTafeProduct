@@ -40,3 +40,16 @@ C:\MyWrap\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps_Mar
 C:\MyWrap\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\MyWrap\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\MyWrap\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\MyMerge\MyTafeProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
